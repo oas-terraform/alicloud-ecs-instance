@@ -1,1 +1,0 @@
-# alicloud-ecs-instance
